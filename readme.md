@@ -5,7 +5,7 @@
    </head>
 <body>
 <h2>You need just clone code and download requirements</h2>
-git clone https://github.com/vladtsar1337/journal-application-py-PyQt6
+git clone https://github.com/vladtsar1337/journal-application-py-PyQt6 <br>
 pip install -r requirements.txt
 <h2>You can use it for:</h2>
 <ul>
