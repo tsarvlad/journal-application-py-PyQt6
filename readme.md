@@ -4,6 +4,8 @@
     <h1>This is journal application</h1>
    </head>
 <body>
+<h2>You need just clone code and write it</h2>
+    pip install -r requirements.txt
 <h2>You can use it for:</h2>
 <ul>
     <li>- You can leave your note every day, you can store your thoughts there</li>
