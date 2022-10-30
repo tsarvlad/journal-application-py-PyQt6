@@ -8,8 +8,13 @@
 <ul>
     <li>- You can leave your note every day, you can store your thoughts there.</li>
     <li>- You can attach to them points, indentifying your mood, or life index.</li>
+    ![Screenshot_1](https://user-images.githubusercontent.com/109757758/198892365-637c813d-8797-4649-93ca-fd01bfaa1ac6.png)
+
     <li>- You can see visualisation of that in "Chart" tab. </li>
+    ![Screenshot_3](https://user-images.githubusercontent.com/109757758/198892374-1549fa86-5217-4327-8d7a-98514b8ba759.png)
     <li>- You can see comfortably see your note uing calendar. </li>
+     ![Screenshot_2](https://user-images.githubusercontent.com/109757758/198892371-d523fdbc-200a-4072-b665-290cf7267be7.png)
+
 </ul>
 <h2>Application also have auntentication here. Default password is "". But you can setup password:</h2>
 <ul>
