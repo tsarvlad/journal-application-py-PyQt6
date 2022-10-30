@@ -18,7 +18,7 @@
 </ul>
 <h2>Application also have auntentication here. Default password is "". But you can setup password:</h2>
 <ul>
-    <li>ettings -> Set Password </li>
+    <li>Settings -> Set Password </li>
 </ul>
 <h2>There is also a security measures. You can delete all your journal story:</h2>
 <ul>
