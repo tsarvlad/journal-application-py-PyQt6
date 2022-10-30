@@ -1,4 +1,8 @@
-<h1>This is journal application. You can use it for:<h1/>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>This is journal application</title>
+<h2>This is journal application. You can use it for:</h2>
     - You can leave your note every day, you can store your thoughts there
     - You can attach to them points, indentifying your mood, or life index.
     - You can see visualisation of that in "Chart" tab
