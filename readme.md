@@ -13,9 +13,11 @@
 <ul>
     <li>- You can see visualisation of that in "Chart" tab</li>
     </ul>
+<img src="https://user-images.githubusercontent.com/109757758/198892697-43bf6896-e1d8-4d97-8fbe-f045dea93401.png", height='400', width='300'>
 <ul>
     <li>- You can see comfortably see your note uing calendar.</li>
     </ul>
+<img src="https://user-images.githubusercontent.com/109757758/198892724-4d1b85e7-82df-4bae-8d9b-066d03f23290.png", height='400', width='300'>
 </ul>
 <h2>Application also have auntentication here. Default password is "". But you can setup password:</h2>
 <ul>
