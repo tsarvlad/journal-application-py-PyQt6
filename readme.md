@@ -9,7 +9,7 @@
     <li>- You can leave your note every day, you can store your thoughts there</li>
     <li>- You can attach to them points, indentifying your mood, or life index.</li>
     </ul>
-<img src="https://user-images.githubusercontent.com/109757758/198892619-5c7796ac-1d10-4f2f-aff8-af112df96db5.png", height='500', width='330'>
+<img src="https://user-images.githubusercontent.com/109757758/198892619-5c7796ac-1d10-4f2f-aff8-af112df96db5.png", height='400', width='300'>
 <ul>
     <li>- You can see visualisation of that in "Chart" tab</li>
     </ul>
