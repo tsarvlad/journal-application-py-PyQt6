@@ -3,11 +3,12 @@
 <head>
     <h1>This is journal application</h1>
    </head>
-<h2>This is journal application. You can use it for:</h2>
-    - You can leave your note every day, you can store your thoughts there
-    - You can attach to them points, indentifying your mood, or life index.
-    - You can see visualisation of that in "Chart" tab
-    - You can see comfortably see your note uing calendar. 
+<h2>You can use it for:</h2>
+    <ul>
+        <li>- You can leave your note every day, you can store your thoughts there.</li>
+        <li>- You can attach to them points, indentifying your mood, or life index.</li>
+        <li>- You can see visualisation of that in "Chart" tab. </li>
+        <li>- You can see comfortably see your note uing calendar. </li>
 Application also have auntentication here. Default password is "". But you can setup password:
     Settings -> Set Password 
 There is also a security measures. You can delete all your journal story:
