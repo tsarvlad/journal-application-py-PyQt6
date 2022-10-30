@@ -23,6 +23,9 @@
 <ul>
     <li>Settings -> Set Password </li>
 </ul>
+<img src="https://user-images.githubusercontent.com/109757758/198892823-67d8ed9b-a313-459d-9e21-613a914c9bf1.png", height='400', width='300'>
+
+
 <h2>There is also a security measures. You can delete all your journal story:</h2>
 <ul>
     <li>Settings -> Wipe story</li>
