@@ -24,16 +24,18 @@
     <li>Settings -> Set Password </li>
 </ul>
 <img src="https://user-images.githubusercontent.com/109757758/198892823-67d8ed9b-a313-459d-9e21-613a914c9bf1.png", height='200', width='150'>
-
-
 <h2>There is also a security measures. You can delete all your journal story:</h2>
 <ul>
     <li>Settings -> Wipe story</li>
 </ul>
+<img src="https://user-images.githubusercontent.com/109757758/198892823-67d8ed9b-a313-459d-9e21-613a914c9bf1.png", height='200', width='150'>
+
 <h2>While typing text, you will see how much words your text have. You can also change font, if you want:</h2>
 <ul>
     <li>Format -> Font</li>
     </ul>
+<img src=![image](https://user-images.githubusercontent.com/109757758/198892877-098648aa-0945-4703-a8ee-e0640a610761.png), height="200", width='150'>
+
 <h2>In the same Format menubar, you can find:</h2>
 <ul>
 <li>Bold, Italics, Underline</li>
