@@ -5,8 +5,8 @@
    </head>
 <body>
 <h2>You need just clone code and download requirements</h2>
-    <mark>git clone https://github.com/vladtsar1337/journal-application-py-PyQt6</mark>
-    <mark>pip install -r requirements.txt</mark>
+    <b>git clone https://github.com/vladtsar1337/journal-application-py-PyQt6</b>
+        <b>pip install -r requirements.txt</b>
 <h2>You can use it for:</h2>
 <ul>
     <li>- You can leave your note every day, you can store your thoughts there</li>
