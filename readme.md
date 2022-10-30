@@ -34,7 +34,7 @@
 <ul>
     <li>Format -> Font</li>
     </ul>
-<img src=![image](https://user-images.githubusercontent.com/109757758/198892877-098648aa-0945-4703-a8ee-e0640a610761.png), height="200", width='150'>
+<img src=https://user-images.githubusercontent.com/109757758/198892877-098648aa-0945-4703-a8ee-e0640a610761.png, height="200", width='150'>
 
 <h2>In the same Format menubar, you can find:</h2>
 <ul>
