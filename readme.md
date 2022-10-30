@@ -6,8 +6,15 @@
 <body>
 <h2>You can use it for:</h2>
 <ul>
-    <img src=https://user-images.githubusercontent.com/109757758/198892371-d523fdbc-200a-4072-b665-290cf7267be7.png>
-
+    <li>- You can leave your note every day, you can store your thoughts there</li>
+    <li>- You can attach to them points, indentifying your mood, or life index.</li>
+    </ul>
+<ul>
+    <li>- You can see visualisation of that in "Chart" tab</li>
+    </ul>
+<ul>
+    <li>- You can see comfortably see your note uing calendar.</li>
+    </ul>
 </ul>
 <h2>Application also have auntentication here. Default password is "". But you can setup password:</h2>
 <ul>
